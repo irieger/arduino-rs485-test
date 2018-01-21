@@ -1,0 +1,12 @@
+Setup done
+Got value: 123
+Got value: 31488
+Got value: 0
+Got value: 31488
+Got value: 0
+Got value: 31488
+Got value: 0
+Got value: 100
+Got value: 0
+Got value: 51200
+Got value: 0
