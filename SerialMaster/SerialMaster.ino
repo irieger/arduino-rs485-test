@@ -41,6 +41,7 @@ void loop()
             digitalWrite(TX_PIN, HIGH);
             delayMicroseconds(1200);
             Serial2.write((byte*) &value, 2);
+            Serial2.flush();
             delayMicroseconds(1200);
             digitalWrite(TX_PIN, LOW);
             value = 0;
